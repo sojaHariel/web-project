@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>Hello World versão 2!</title>
+        <title>Hello World versão 3!</title>
 
         <meta charset="utf-8" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -16,29 +16,8 @@
         <h1>Hello, my dear World!</h1>
 
 
-        <h2>Teste da Integração Contínua</h2>
-
-        <p>A sincronização com o servidor github é realizada agora usando o ssh.</p>
-
-        <hr>
-
-        <h3>About the earth</h3>
-
-        <hr>
-
-            <h3>Esta aplicação passou a utilizar um webhook!</h3>
-
-            <ol>
-
-                <li>The Earth’s rotation is gradually slowing</li>
-                <li>The Earth was once believed to be the centre of the universe</li>
-                <li>Earth has a powerful magnetic field</li>
-
-            </ol>
-
-        <hr>
-
-        <hr>
+        <h2>Teste 3</h2>
+		<img src="https://cdn.pixabay.com/photo/2015/04/04/19/13/three-706895_960_720.jpg">        
     </body>
     
 </html>
